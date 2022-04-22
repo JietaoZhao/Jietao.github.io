@@ -1,4 +1,8 @@
-# Howen2000.github.io
-A testimony to my journey of progress
+# Howen2000.github.io  
+A testimony to my journey of progress  
 
-README contents is designed for express deep logic strcture in the future
+博客名：Howen2000.github.io  
+该博客用于阐述并分享Java的基础开发教程，具体内容大多以文字叙述以及代码展示，若有不足望请斧正。  
+
+作者：Howen  
+邮箱：superlessman@gmail.com  
