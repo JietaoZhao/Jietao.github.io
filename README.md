@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+/*
+Java实现基础登陆界面绘制
 
-You can use the [editor on GitHub](https://github.com/Howen2000/Howen2000.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Java现有的两个常用的教学使用的package:
+java.awt-早期的java界面开发包，常用其中元素规则类；然而其中的组件类、容器类较为老旧，一般不做使用
+javax.swing-是升级之后的界面开发包，一般使用其中的容器类组件类
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+对于一个基础的界面开发，一般大致上费为：可视化、元素规则、内容。
+其中可视化包含：容器-（窗体）、组件-（按钮、输入框、文本框、标签等）
+其中元素规则包含：尺寸、颜色、字体、布局
+其中内容包含：文本、图片
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Howen2000/Howen2000.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*/
